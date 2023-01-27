@@ -183,7 +183,7 @@ Thanjavur is also home to Tanjore painting, a painting style unique to the regio
 ```
 
 ## Output:
-![OUTPUT](./screenshots/tanjore.png)
+![OUTPUT](./screenshots/o0.png)
 
 ![OUTPUT](./screenshots/o1.png)
 
